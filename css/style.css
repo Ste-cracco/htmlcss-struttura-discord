@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 10px 0px;
+    
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.container_riga_1{
+    background-color: lightsalmon;
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
