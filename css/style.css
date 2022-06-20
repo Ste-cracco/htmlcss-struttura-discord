@@ -53,6 +53,12 @@ ul{
     background-color: salmon;
 }
 
+.rettangolo_verde {
+    height: 600px;
+    width: 100%;
+    background-color: green;
+}
+
 .background_riga_1{
     background-color: #00008B;
     padding: 30px 0;
@@ -63,3 +69,18 @@ ul{
     padding: 30px 0;
 }
 
+.background_riga_3{
+    background-color: lightgrey;
+    padding: 30px 0;
+}
+
+.background_riga_5{
+    background-color: lightgrey;
+    padding: 30px 0;
+}
+
+
+
+#riga_inversa {
+    flex-direction: row-reverse;
+}
